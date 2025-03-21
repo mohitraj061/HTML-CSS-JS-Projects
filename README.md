@@ -1,1 +1,1 @@
-# Basic webpage projects using HTML, CSS, JavaScript
+# Basic projects using HTML, CSS, JavaScript
